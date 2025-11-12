@@ -1,0 +1,19 @@
+{
+  "productsID": 100,
+  "quantity": 1
+}
+
+{
+  "cartId": "abc123", 
+  "items": [
+    {
+      "productId": 101,
+      "name": "Ноутбук MagicBook X16",
+      "quantity": 1,
+      "pricePerUnit": 35270,
+      "totalPrice": 35270
+    }
+  ],
+  "totalItems": 1,
+  "totalPrice": 35270
+}

@@ -1,0 +1,27 @@
+{
+  "id": 100,
+  "name": "Ноутбук MagicBook X16",
+  "price": 35270,
+  "description": "Это ноутбук с операционной системой DOS, который оснащен процессором Intel Core i5 12450H. Этот процессор из линейки Intel Core i5 имеет частоту 2000 и восемь ядер, что обеспечивает отличную производительность при выполнении различных задач",
+  "images": [
+    "https://wowcheap.com/images/laptops_x16_n1.jpg",
+    "https://wowcheap.com/images/laptops_x16_n11.jpg"
+  ],
+  "specifications": {
+    "brand": "Цена-качество",
+    "model": "X16",
+    "cpu": "Intel Core i5 12450H",
+    "ram": "16 ГБ",
+    "SSD": "512 ГБ",
+  },
+  "variants": [
+    {
+      "color": "Black",
+      "stock": 15
+    },
+    {
+      "color": "Gray",
+      "stock": 10
+    }
+  ]
+}
